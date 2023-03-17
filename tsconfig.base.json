@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "tsv-groupdata-parser": ["libs/tsv-parser/src/index.js"],
       "uw-quote-helpers": ["libs/quote-helpers/src/index.js"]
     }
   },
